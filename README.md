@@ -2,7 +2,7 @@
 
 
 ### 2022
-* [Tezket - NFT Ticket System | Gitcoin](https://gist.github.com/ubinix-warun/fe48b4e72457b59cb01a732b6abde4c0)
+* [Tezket - NFT Ticket System | Gitcoin](https://gist.github.com/ubinix-warun/fe48b4e72457b59cb01a732b6abde4c0) 🥈
 * [Algorand Offchain Worker | Gitcoin](https://github.com/ubinix-warun/algorand-offchain-worker)
 * [Tatum x Algo - Build a Crypto Wallet | Gitcoin](https://github.com/ubinix-warun/react-algomask) 🥇
 
