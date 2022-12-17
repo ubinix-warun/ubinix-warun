@@ -2,7 +2,7 @@
 
 
 ### 2022
-* [zkOracle/Offchain Worker | zkIgnite ](https://github.com/ubinix-warun/zkOracle-OCW) 🎄
+* [zkOracle and Offchain Worker | zkIgnite](https://github.com/ubinix-warun/zkOracle-OCW) 🎄
 * [Algo WebBroker - Realtime On-Chain Event | Gitcoin](https://github.com/ubinix-warun/algorand-webbroker) 🥇
 * [Algorand Checker verifies Chain code | Gitcoin](https://github.com/ubinix-warun/react-algochecker) 🍻
 * [PyTEAL Offchain Worker | AngleHack](https://github.com/ubinix-warun/pyteal-offchain-worker) & [Gitcoin](https://github.com/ubinix-warun/algorand-offchain-worker) 🏅
