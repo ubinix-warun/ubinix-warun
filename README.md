@@ -2,7 +2,7 @@
 
 ### 2023
 * What's next?
-* [TezKet v2](https://github.com/tezket/tezket-v2) -- Own event, own contract. 🔑
+* [TezketNFT contracts](TezKet/tezketNFT-contracts) -- Own event, own contract. 🔑
 
 ### 2022
 * [zkOracle and Offchain Worker | zkIgnite](https://github.com/ubinix-warun/zkOracle-OCW) 🎄
