@@ -2,6 +2,7 @@
 
 ### 2023
 * What's next?
+* [MINA Testworld 2.0](https://github.com/ubinix-warun/mina-test-world-2) -- PPT Program.
 * [TezketNFT contracts](https://github.com/TezKet/tezketNFT-contracts) -- Own event, own contract. 🔑
 
 ### 2022
