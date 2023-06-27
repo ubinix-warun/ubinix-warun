@@ -2,8 +2,8 @@
 
 ### 2023
 * What's next?
-* [Testworld Mission 2.0 | MINA](https://github.com/ubinix-warun/mina-test-world-2) -- Protocol Performance Testing.
 * [TezketNFT contracts](https://github.com/TezKet/tezketNFT-contracts) -- Own event, own contract. 🔑
+* PENDING -- [Testworld Mission 2.0 | MINA](https://github.com/ubinix-warun/mina-test-world-2) -- Protocol Performance Testing.
 
 ### 2022
 * [zkOracle and Offchain Worker | zkIgnite](https://github.com/ubinix-warun/zkOracle-OCW) 🎄
