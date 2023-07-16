@@ -7,7 +7,7 @@
 * 🚧🚧🚧 [Testworld Mission 2.0 | MINA](https://github.com/ubinix-warun/mina-test-world-2) -- Protocol Performance Testing.
 
 ### 2022
-* [zkOracle and Offchain Worker | zkIgnite](https://github.com/ubinix-warun/zkOracle-OCW) 🎄
+* [zkOracle and Offchain Worker | zkIgnite](https://github.com/ubinix-warun/zkOracle-OCW) 🎄🎅
 
 
 ----
