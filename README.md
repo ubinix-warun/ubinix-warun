@@ -19,4 +19,4 @@
 <a href="https://nostr.com" ><img src="https://user-images.githubusercontent.com/3756229/258638782-b257c6b3-3e02-4592-b8f4-ecc586a3236a.png" width="32" ></a> -- Ostrich Lvl 33.
 <a href="https://bitcoin.org/en/" ><img src="https://sett-vision.s3-us-west-2.amazonaws.com/assets/yellow_hat_badger.png" height="22"> </a> -- Badger Lvl 5.<br/>
 <a href="https://go.dev/" ><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Go_gopher_app_engine_color.jpg" width="32"> </a> -- Gopher Lvl 99.<br/>
-<a href="https://www.rust-lang.org/" ><img src="https://rustacean.net/assets/rustacean-flat-happy.png" width="32"> </a> -- Ferris Lvl 22. 
+<a href="https://www.rust-lang.org/" ><img src="https://rustacean.net/assets/rustacean-flat-happy.png" width="32"> </a> -- Ferris Lvl 12. 
