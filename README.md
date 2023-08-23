@@ -3,7 +3,7 @@
 ### 2023
 * What's next ?
 * [Nostamask 👺 | NAVH x AngleHack](https://github.com/ubinix-warun/nostamask) -- Navigating Nostr Safely with Nostamask Snap.
-* [Base 🔵 Camp | Base Goerli](https://github.com/ubinix-warun/base-camp-goerli) -- learning smart contract development and earn NFTs.
+* [Base 🔵 Camp | Base Goerli](https://github.com/ubinix-warun/base-camp-goerli) -- Learning smart contract development and Earn NFTs.
 * [TezketNFT contracts](https://github.com/TezKet/tezketNFT-contracts) -- Own event, own contract.
 * 🚧🚧🚧 [Testworld Mission 2.0 | MINA](https://github.com/ubinix-warun/mina-test-world-2) -- Protocol Performance Testing.
 
