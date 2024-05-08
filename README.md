@@ -1,7 +1,7 @@
 # ubinix-warun 
 
 ### 2024
-* 🚢 [@zkoracle/opennautilus-contacts](https://github.com/zkoracle/opennautilus-contacts) -- toolkits for zero-knowledge applications (zkApps).
+* 🚢 [@zkoracle/opennautilus-contracts](https://github.com/zkoracle/opennautilus-contracts) -- toolkits for zero-knowledge applications (zkApps).
 
 ### 2022/23
 * 🛠️ [zkOracle and Offchain Operator | MINA NAV](https://github.com/ubinix-warun/zkOracle-OCO) 🛠️
