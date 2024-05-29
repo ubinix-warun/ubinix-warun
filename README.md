@@ -1,6 +1,7 @@
 # ubinix-warun 
 
 ### 2024
+* 🌏 [amplify-vite-map-marker](https://github.com/ubinix-warun/amplify-vite-map-marker)-- An interactive map PWA built with Vite, React, and TypeScript (Amplify GEN2).
 * 🚢 [@zkoracle/opennautilus-contracts](https://github.com/zkoracle/opennautilus-contracts) -- toolkits for zero-knowledge applications (zkApps).
 
 ### 2022/23
