@@ -1,8 +1,8 @@
 # ubinix-warun 
 
 ### 2024
-* 🐈 [boat-cartoongan-portal](https://github.com/ubinix-warun/boat-cartoongan-portal)-- A decentralized platform that empowers AI model creators.
-* 🌏 [amplify-vite-map-marker](https://github.com/ubinix-warun/amplify-vite-map-marker)-- An interactive map PWA built with Vite, React, and TypeScript (Amplify GEN2).
+* 🐈 [boat-cartoongan-portal](https://github.com/ubinix-warun/boat-cartoongan-portal)-- A decentralized platform that empowers AI model creators. (40%)
+* 🌏 [amplify-vite-map-marker](https://github.com/ubinix-warun/amplify-vite-map-marker)-- An interactive map PWA built with Vite, React, and TypeScript (Amplify GEN2). (30%)
 * 🚢 [@zkoracle/opennautilus-contracts](https://github.com/zkoracle/opennautilus-contracts) -- toolkits for zero-knowledge applications (zkApps).
 
 ### 2022/23
