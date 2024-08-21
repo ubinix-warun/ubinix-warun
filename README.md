@@ -3,7 +3,7 @@
 ### 2024
 * 🐟 [react-tauri-cmc-template](https://github.com/ubinix-warun/react-tauri-cmc-template) -- A desktop proof of tauri and Coin market cap. API -- 20%
 * 🐈 [boat-cartoongan-portal](https://github.com/ubinix-warun/boat-cartoongan-portal) -- A decentralized platform that empowers AI model creators. ✅ -- 40%
-* 🌏 [amplify-vite-map-marker](https://github.com/ubinix-warun/amplify-vite-map-marker) -- An interactive map PWA built with Vite, React, and TypeScript (Amplify GEN2). (30%)
+* 🌏 [amplify-vite-map-marker](https://github.com/ubinix-warun/amplify-vite-map-marker) -- An interactive map PWA built with Vite, React, and TypeScript. -- 30%
 * 🚢 [@zkoracle/opennautilus-contracts](https://github.com/zkoracle/opennautilus-contracts) -- toolkits for zero-knowledge applications (zkApps).
 
 ### 2022/23
