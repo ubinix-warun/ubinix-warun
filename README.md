@@ -7,7 +7,7 @@
 * 🚢 [@zkoracle/opennautilus-contracts](https://github.com/zkoracle/opennautilus-contracts) -- toolkits for zero-knowledge applications (zkApps).
 
 ### 2022/23
-* 🛠️ [zkOracle and Offchain Operator | MINA NAV](https://github.com/ubinix-warun/zkOracle-OCO) 🛠️
+* 🛠️ [zkOracle and Offchain Operator | MINA NAV](https://github.com/ubinix-warun/zkOracle-OCO) 
 * ⏭️ [TezketNFT contracts](https://github.com/TezKet/tezketNFT-contracts) -- Own event, own contract.
 
 ----
