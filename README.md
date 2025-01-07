@@ -1,11 +1,20 @@
 # ubinix-warun 
 
-### 2025
+<details open>
+  <summary><h3>🏕️ 2025</h3></summary>
+<ul>
+  <li></li>
+</ul>
+</details>
 
-### Archived
-* 🚢 [@zkoracle/opennautilus-contracts](https://github.com/zkoracle/opennautilus-contracts) -- toolkits for zero-knowledge applications (zkApps).
-* 🛠️ [zkOracle and Offchain Operator | MINA NAV](https://github.com/ubinix-warun/zkOracle-OCO) 
-* ⏭️ [TezketNFT contracts](https://github.com/TezKet/tezketNFT-contracts) -- Own event, own contract.
+<details >
+  <summary><h3>🗂️ Archived</h3></summary>
+<ul>
+  <li>🚢 <a href="https://github.com/zkoracle/opennautilus-contracts">@zkoracle/opennautilus-contracts</a> -- toolkits for zero-knowledge applications (zkApps).</li>
+  <li>🛠️ <a href="https://github.com/ubinix-warun/zkOracle-OCO">zkOracle and Offchain Operator | MINA NAV</a> -- oracle's intensive models based on Erc677 (transferAndCall)</li>
+  <li>⏭️ <a href="https://github.com/TezKet/tezket-v2">TezketNFT contracts</a> -- mint NFT ticket (Tezos Smartcontract).</li>
+</ul>
+</details>
 
 ----
 
